@@ -4,6 +4,7 @@ pipeline {
 
     tools {
         maven "Maven 3.6.3"
+        sonar "SonarQube"
     }
     options {
         parallelsAlwaysFailFast()
@@ -26,9 +27,6 @@ pipeline {
                 }
                 stage('Build Hello-world Sonarqube') {
                     steps {
-                        script {
-                            scannerHome = tool 'SonarQube'
-                           }
                           withSonarQubeEnv('SonarQube') {
                             sh "mvn  clean package sonar:sonar -Dsonar.host_url=$SONAR_HOST_URL "
                             }
