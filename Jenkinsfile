@@ -26,7 +26,7 @@ pipeline {
                 }
                 stage('Build Hello-world Sonarqube') {
                     steps {
-                        withSonarQubeEnv(credentialsId:'c606bf71409909597133bb1d945ffbcd0f8176d5',installationName: 'SonarQube')  {
+                        withSonarQubeEnv()  {
                             sh "mvn  clean package sonar:sonar -Dsonar.host_url=$SONAR_HOST_URL "
                             }
                         }
