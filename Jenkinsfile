@@ -1,14 +1,16 @@
-pipeline{
+// Hello-world build pipeline
+pipeline {
     agent any
- tools {
-    jdk "jdk11"
-    maven "Maven 3.6.3"
- }
- stages {
-     stage('build Hello-world') {
-     steps {
-         sh "mvn clean install package"
-     }
+
+    tools {
+        maven "Maven 3.6.3"
     }
-  }
+    stages {
+        stage('Build Hello-world') {
+           steps{
+              // Run the maven build
+              sh "mvn clean install package"
+           }
+        }
+    }
 }
