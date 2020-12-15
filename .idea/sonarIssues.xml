@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/hello-world-full-pipeline">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/webapp/src/main/webapp/index.jsp">
           <value>
             <set />
@@ -34,6 +39,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../spring-framework-petclinic/petclinic_test_plan.jmx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/filter_plugins/my_filters.py">
           <value>
             <set />
           </value>
