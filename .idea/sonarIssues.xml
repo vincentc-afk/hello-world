@@ -33,12 +33,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../jenkins-pic/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../jenkins-pic/SELENIUM.md">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../spring-framework-petclinic/petclinic_test_plan.jmx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../kubernetes/k8s-webforce3/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../kubernetes/k8s-webforce3/first.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../kubernetes/k8s-webforce3/hog.yaml">
           <value>
             <set />
           </value>
