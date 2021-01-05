@@ -48,6 +48,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../spring-framework-petclinic/src/main/webapp/WEB-INF/jsp/welcome.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../kubernetes/k8s-webforce3/README.md">
           <value>
             <set />
