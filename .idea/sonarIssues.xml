@@ -8,12 +8,27 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../ansible/ansible-dynamic-inventory/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../ansible/awx-15.0.1/INSTALL.md">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../hello-world-selenium/src/main/java/day1.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/Jenkinsfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
           <value>
             <set />
           </value>
@@ -68,7 +83,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/LES_PLAYBOOKS.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/docker_example.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/filter_plugins/my_filters.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/example-role/github.role/defaults/main.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/example-role/github.role/tasks/main.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/example-role/playbook.yml">
           <value>
             <set />
           </value>
