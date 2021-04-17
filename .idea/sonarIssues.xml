@@ -68,6 +68,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../../docker/docker-aston-poec/lab-chaining-commands/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../kubernetes/k8s-webforce3/README.md">
           <value>
             <set />
@@ -94,6 +99,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../../../master-afip/ansible-examples/filter_plugins/my_filters.py">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../../master-afip/ansible-install-git/git.role/vars/Alpine-3.yml">
           <value>
             <set />
           </value>
