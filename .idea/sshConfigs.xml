@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="158.69.21.153" id="a8119c03-edea-40b8-adec-d03301e0af39" keyPath="D:\project\id_rsa" port="22" customName="vm local" nameFormat="CUSTOM" username="ubuntu">
+        <option name="customName" value="vm local" />
+      </sshConfig>
+    </configs>
+  </component>
+</project>
